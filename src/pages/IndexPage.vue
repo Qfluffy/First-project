@@ -69,5 +69,6 @@
 
 <script setup>
   import { ref } from 'vue'
+  const text1 = ref('')
   const text = ref('')
 </script>
